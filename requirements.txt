@@ -5,4 +5,4 @@ seaborn
 numpy
 sklearn
 bioinfokit
-
+openpyxl
